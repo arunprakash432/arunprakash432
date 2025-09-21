@@ -9,10 +9,10 @@
   </a>
   <a href="mailto:prakasharun484@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <!-- </a>
   <a href="https://yourportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23ff6f61.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
