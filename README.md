@@ -13,5 +13,4 @@
   <img src="https://img.shields.io/badge/Portfolio-%23ff6f61.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </p>
-
-##<h2 align="center"> 📫 Let's Connect </h2>
+<h2 align="center"> 📫 Let's Connect </h2>
