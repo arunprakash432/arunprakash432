@@ -28,6 +28,6 @@
           align="middle"
         />
       </a>
-    </td>
+   </td>
   </tr>
 </table>
