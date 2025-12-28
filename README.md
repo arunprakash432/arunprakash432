@@ -12,6 +12,7 @@
   </a>
   &nbsp;
   <a href="https://arunprakash432.com" title="Portfolio">
-    🌐 Portfolio
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-444444?style=flat&logo=google-chrome&logoColor=white" />
+</a>
+
 </p>
