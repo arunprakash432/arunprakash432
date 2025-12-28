@@ -12,6 +12,7 @@
   &nbsp;
 
   <a href="https://arunprakash432.com" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=firefox-browser&logoColor=white" />
+
   </a>
 </p>
