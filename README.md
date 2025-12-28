@@ -9,8 +9,9 @@
   </a>
   <a href="mailto:prakasharun484@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <a href="https://arunprakash432.com" target="[_blank](https://arunprakash432.com/)">
-    <img src="https://img.shields.io/badge/Portfolio-%23ff6f61.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://arunprakash432.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-%23ff6f61.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 </p>
 
 ## 📫 Let's Connect
